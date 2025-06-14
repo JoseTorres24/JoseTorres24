@@ -1,6 +1,6 @@
 #  ¡Hola! Soy Luis Torres 
 
-Holas, mucho gusto. Soy un estudiante de la carrera de ciencias computacionales, que me considero un desarrollador en constante aprendizaje, interesado en [Desarrollo Web, Ingeneria de Software, IA, Creacion de Videojuegos, Automatizacion de Tareas, etc.]. Este espacio lo utilizo para trabajar en proyectos personales, colaborar en código abierto y compartir mi avance poco a poco.
+Holas, mucho gusto. Soy un estudiante de la carrera de ciencias computacionales, que me considero un desarrollador en constante aprendizaje, interesado en Desarrollo Web, Ingeneria de Software, IA, Creacion de Videojuegos, Automatizacion de Tareas. Este espacio lo utilizo para trabajar en proyectos personales, colaborar en código abierto y compartir mi avance poco a poco.
 
 ---
 
